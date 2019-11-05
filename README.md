@@ -1,6 +1,7 @@
 # Waymo Driverless Car Data Analysis and Driving Modeling: Team 4
 
 ![alt text](screenshots/waymo.webm "Waymo")
+![GIF demo](screenshots/waymo.gif)
 
 This repository contains files related to the waymo project for fall 2019 semester.
 
