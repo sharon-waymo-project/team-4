@@ -1,4 +1,4 @@
-# Waymo Driverless Car Dataset Project: Team 4
+# Waymo Driverless Car Dataset Project - Team 4
 
 ![GIF demo](screenshots/waymo.gif)
 
